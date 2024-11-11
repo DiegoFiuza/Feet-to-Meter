@@ -1,5 +1,5 @@
 package converter
-
+//func to convert the number to meter. Use os Args to error handling
 import (
 	"fmt"
 	"os"
